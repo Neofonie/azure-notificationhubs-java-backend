@@ -1,6 +1,8 @@
 Java REST wrapper for Windows Azure Notification Hubs
 ==========================
 
+## **⚠️ THIS PROJECT IS NOW UNMAINTED AND IN READ-ONLY MODE ⚠️**
+
 Java Back-end SDK for [Windows Azure Notification Hubs]. Using [REST APIs].
 
 Implements most of the Notification Hubs REST operations to perform Hub CRUDs, registration/installation management and send notification.
